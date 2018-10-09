@@ -3,7 +3,9 @@ Description: Grab Title Of Youtube Video on Windows to Display On Discord as Ric
 
 Author: Me
 
-Version: 1.0.0
+Main Contributors: LewdNeko, SplendidX
+
+Version: 1.1
 
 ![alt text](https://image.prntscr.com/image/pG214_S_R_iYfSjunn5YTg.png)  										
 
