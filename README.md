@@ -7,6 +7,10 @@ Main Contributors: LewdNeko, SplendidX
 
 Version: 1.1
 
+Changelog:
+
+V1.1: Fixed Buggies and added cleaner code from Neko and Splendid  
+
 ![alt text](https://image.prntscr.com/image/pG214_S_R_iYfSjunn5YTg.png)  										
 
 ![alt text](https://image.prntscr.com/image/kkmfZPEASiSJXA-ypF7EyQ.png)
