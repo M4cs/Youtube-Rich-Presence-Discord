@@ -5,7 +5,9 @@ Author: Me
 
 Version: 1.0.0
 
-![alt text](https://image.prntscr.com/image/pG214_S_R_iYfSjunn5YTg.png)  										![alt text](https://image.prntscr.com/image/kkmfZPEASiSJXA-ypF7EyQ.png)
+![alt text](https://image.prntscr.com/image/pG214_S_R_iYfSjunn5YTg.png)  										
+
+![alt text](https://image.prntscr.com/image/kkmfZPEASiSJXA-ypF7EyQ.png)
 
 [![GitHub stars](https://img.shields.io/github/stars/M4cs/Youtube-Rich-Presence-Discord.svg?longCache=true&style=for-the-badge)](https://github.com/M4cs/Youtube-Rich-Presence-Discord/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/M4cs/Youtube-Rich-Presence-Discord.svg?longCache=true&style=for-the-badge)](https://github.com/M4cs/Youtube-Rich-Presence-Discord/network)
