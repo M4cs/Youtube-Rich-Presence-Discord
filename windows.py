@@ -26,7 +26,7 @@ def full():
     for text in titles:
         if sub in text:
             for title in title_filter:
-                textp.replace(title,"")
+                textp = text.replace(title,"")
 
     print(RPC.update(state=textp + " on Youtube", details="Listening to: "))  # Set the presence
     time.sleep(15) # Can only update rich presence every 15 seconds
@@ -36,5 +36,8 @@ try:
     full()
 except KeyboardInterrupt:
     print('Closing program')
+except UnboundLocalError:
+    print('No Youtube Tab Found!')
+    print('Please bring tab to foreground or keep it open in a separate browser!')
 finally:
     RPC.close()
