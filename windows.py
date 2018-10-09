@@ -41,7 +41,7 @@ def full():
     client_id = ''  # Fake ID, put your real one here
     RPC = Presence(client_id)  # Initialize the client class
     RPC.connect() # Start the handshake loop
-    print(RPC.update(state=textp14 + " on Youtube", details="Listening to: "))  # Set the presence
+    print(RPC.update(state=textp17 + " on Youtube", details="Listening to: "))  # Set the presence
     while True:  # The presence will stay on as long as the program is running
         time.sleep(15) # Can only update rich presence every 15 seconds
         RPC.close()
