@@ -16,4 +16,8 @@ title_filter = [
     "Google Chrome",
     "Firefox",
     "Internet Explorer"
+    "Music Video",
+    "Official Lyric Video",
+    "Chromium",
 ]
+
