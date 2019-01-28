@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ## Setting Client ID:
 
-On line 41 you must set your Client ID. You can refer to the link above in Pre-Reqs to see where to find your Client ID. You need to add an application and then pull the Client ID.
+On line 6 you must set your Client ID. You can refer to the link above in Pre-Reqs to see where to find your Client ID. You need to add an application and then pull the Client ID.
 
 I reccommend using pythonw for this so you can run it in the background and not worry about a command prompt staying open. 
 
